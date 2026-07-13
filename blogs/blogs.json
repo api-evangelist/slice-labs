@@ -2,13 +2,14 @@
   "repo": "slice-labs",
   "feeds": [
     {
-      "source": "https://sliceinsurance.com/blog/",
-      "feed_url": "",
+      "source": "https://sliceinsurance.com/slice-mind/",
+      "feed_url": "https://sliceinsurance.com/slice-mind/",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
   "post_count": 1,
-  "fetched": "2026-06-27T13:10:11Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
