@@ -63,7 +63,7 @@ tags:
   - Ratings
   - Embedded Insurance
   - Behavioral Science
-  - Machine-Learning
+  - Machine Learning
   - LLM
 tags_raw:
   - Insurance
@@ -80,6 +80,7 @@ tags_raw:
   - Behavioral Science
   - Machine Learning
   - Large Language Models
+  - Machine-Learning
 url: https://raw.githubusercontent.com/api-evangelist/slice-labs/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
