@@ -6,5 +6,3 @@ author: "Keith Janes"
 feed_url: "https://sliceinsurance.com/blog/"
 ---
 Slice announces a new one-click $1M Excess Casualty coverage feature for contractors. It streamlines the previously manual underwriting process, eliminating paperwork while providing instant pricing and zero extra forms for additional liability limits.
-</content>
-</invoke>
